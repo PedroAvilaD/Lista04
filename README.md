@@ -31,3 +31,6 @@ Fazer um programa que leia três valores com ponto flutuante de dupla precisão:
     c) área do trapézio que tem A e B por bases e C por altura.
     d) área do quadrado que tem lado B.
     e) área do retângulo que tem lados A e B
+
+## Author
+- [Pedro Henrique Ávila Domingos](https://github.com/PedroAvilaD)
