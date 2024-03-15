@@ -1,4 +1,3 @@
-[11:11] PEDRO HENRIQUE AVILA DOMINGOS
 using System;
 
 namespace Baskara;
